@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aurelia.schmiegelow@gmail.com
+	name = AureliaSkye Schmiegelow
